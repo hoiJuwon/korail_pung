@@ -135,8 +135,8 @@ def get_korail_data(start_time):
 
         # final_data_schema['type'] = target_array[0]
 
-        # print(target_array)
-        # print('뭔데')
+        print(target_array)
+        print('뭔데')
         # ktx
         if target_array[1] == 'KTX':
             ktx_train_num = target_array.pop(2)
@@ -203,22 +203,31 @@ def get_korail_data(start_time):
             else:
                 pass
 
-        # print(target_array)
+        print(target_array)
 
         # target_array.pop(6)
 
         # print('나머지임')
 
         # print(target_array[5])
-        final_data_schema['type'] = target_array[0]
-        final_data_schema['train_num'] = target_array[1]
-        final_data_schema['dep_time'] = target_array[2]
-        final_data_schema['arr_time'] = target_array[3]
-        final_data_schema['price'] = target_array[4]
-        final_data_schema['tot_time'] = target_array[5]
-        final_data_schema['membership'] = target_array[6]
+        if len(target_array) is not 7:
+            error_cities = start_city + ' ' + end_city
 
-        final_data.append(final_data_schema)
+            with io.open('에러.txt', 'w', encoding='utf-8') as f:
+                f.write((error_cities, ensure_ascii=False))
+
+            continue
+
+        else:
+            final_data_schema['type'] = target_array[0]
+            final_data_schema['train_num'] = target_array[1]
+            final_data_schema['dep_time'] = target_array[2]
+            final_data_schema['arr_time'] = target_array[3]
+            final_data_schema['price'] = target_array[4]
+            final_data_schema['tot_time'] = target_array[5]
+            final_data_schema['membership'] = target_array[6]
+
+            final_data.append(final_data_schema)
 
         # if '-' in t.text.split():
 

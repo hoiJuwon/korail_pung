@@ -1,0 +1,1973 @@
+[
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 101",
+    "dep_time": "서울05:15",
+    "arr_time": "부산07:51",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 103",
+    "dep_time": "서울05:30",
+    "arr_time": "부산08:17",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1201",
+    "dep_time": "서울05:56",
+    "arr_time": "부산11:29",
+    "price": "28,600",
+    "tot_time": "05:33",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 105",
+    "dep_time": "서울06:00",
+    "arr_time": "부산08:37",
+    "price": "(2량)",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 201",
+    "dep_time": "서울06:05",
+    "arr_time": "부산08:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1001",
+    "dep_time": "서울06:16",
+    "arr_time": "부산10:58",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 107",
+    "dep_time": "서울06:35",
+    "arr_time": "부산09:16",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1203",
+    "dep_time": "서울06:38",
+    "arr_time": "부산12:02",
+    "price": "28,600",
+    "tot_time": "05:24",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 109",
+    "dep_time": "서울07:00",
+    "arr_time": "부산09:40",
+    "price": "(5량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1205",
+    "dep_time": "서울07:10",
+    "arr_time": "부산12:36",
+    "price": "28,600",
+    "tot_time": "05:26",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 121",
+    "dep_time": "서울10:00",
+    "arr_time": "부산12:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 273",
+    "dep_time": "서울10:13",
+    "arr_time": "부산13:18",
+    "price": "-",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 233",
+    "dep_time": "서울10:17",
+    "arr_time": "부산13:34",
+    "price": "-",
+    "tot_time": "48,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 123",
+    "dep_time": "서울10:30",
+    "arr_time": "부산13:14",
+    "price": "-",
+    "tot_time": "59,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 125",
+    "dep_time": "서울11:00",
+    "arr_time": "부산13:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1005",
+    "dep_time": "서울11:05",
+    "arr_time": "부산15:47",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "1211",
+    "dep_time": "서울11:15",
+    "arr_time": "부산17:08",
+    "price": "28,600",
+    "tot_time": "05:53",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "1007",
+    "dep_time": "서울11:45",
+    "arr_time": "부산16:33",
+    "price": "42,600",
+    "tot_time": "04:48",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 127",
+    "dep_time": "서울12:00",
+    "arr_time": "부산14:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 129",
+    "dep_time": "서울12:30",
+    "arr_time": "부산15:07",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 125",
+    "dep_time": "서울11:00",
+    "arr_time": "부산13:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1005",
+    "dep_time": "서울11:05",
+    "arr_time": "부산15:47",
+    "price": "42,600",
+    "tot_time": "04:42",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "1211",
+    "dep_time": "서울11:15",
+    "arr_time": "부산17:08",
+    "price": "28,600",
+    "tot_time": "05:53",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "1007",
+    "dep_time": "서울11:45",
+    "arr_time": "부산16:33",
+    "price": "42,600",
+    "tot_time": "04:48",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 127",
+    "dep_time": "서울12:00",
+    "arr_time": "부산14:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 129",
+    "dep_time": "서울12:30",
+    "arr_time": "부산15:07",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 131",
+    "dep_time": "서울13:00",
+    "arr_time": "부산15:45",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 253",
+    "dep_time": "서울13:05",
+    "arr_time": "부산16:13",
+    "price": "-",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1213",
+    "dep_time": "서울13:16",
+    "arr_time": "부산19:00",
+    "price": "28,600",
+    "tot_time": "05:44",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 133",
+    "dep_time": "서울13:20",
+    "arr_time": "부산15:52",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 127",
+    "dep_time": "서울12:00",
+    "arr_time": "부산14:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 129",
+    "dep_time": "서울12:30",
+    "arr_time": "부산15:07",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 131",
+    "dep_time": "서울13:00",
+    "arr_time": "부산15:45",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 253",
+    "dep_time": "서울13:05",
+    "arr_time": "부산16:13",
+    "price": "-",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1213",
+    "dep_time": "서울13:16",
+    "arr_time": "부산19:00",
+    "price": "28,600",
+    "tot_time": "05:44",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 133",
+    "dep_time": "서울13:20",
+    "arr_time": "부산15:52",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 135",
+    "dep_time": "서울13:30",
+    "arr_time": "부산16:10",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 203",
+    "dep_time": "서울13:55",
+    "arr_time": "부산16:22",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 137",
+    "dep_time": "서울14:00",
+    "arr_time": "부산16:27",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1009",
+    "dep_time": "서울14:03",
+    "arr_time": "부산18:46",
+    "price": "42,600",
+    "tot_time": "04:43",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 131",
+    "dep_time": "서울13:00",
+    "arr_time": "부산15:45",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 253",
+    "dep_time": "서울13:05",
+    "arr_time": "부산16:13",
+    "price": "-",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1213",
+    "dep_time": "서울13:16",
+    "arr_time": "부산19:00",
+    "price": "28,600",
+    "tot_time": "05:44",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 133",
+    "dep_time": "서울13:20",
+    "arr_time": "부산15:52",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 135",
+    "dep_time": "서울13:30",
+    "arr_time": "부산16:10",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 203",
+    "dep_time": "서울13:55",
+    "arr_time": "부산16:22",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 137",
+    "dep_time": "서울14:00",
+    "arr_time": "부산16:27",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1009",
+    "dep_time": "서울14:03",
+    "arr_time": "부산18:46",
+    "price": "42,600",
+    "tot_time": "04:43",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 205",
+    "dep_time": "서울14:15",
+    "arr_time": "부산16:32",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1215",
+    "dep_time": "서울14:26",
+    "arr_time": "부산19:51",
+    "price": "28,600",
+    "tot_time": "05:25",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 137",
+    "dep_time": "서울14:00",
+    "arr_time": "부산16:27",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1009",
+    "dep_time": "서울14:03",
+    "arr_time": "부산18:46",
+    "price": "42,600",
+    "tot_time": "04:43",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 205",
+    "dep_time": "서울14:15",
+    "arr_time": "부산16:32",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1215",
+    "dep_time": "서울14:26",
+    "arr_time": "부산19:51",
+    "price": "28,600",
+    "tot_time": "05:25",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 139",
+    "dep_time": "서울14:30",
+    "arr_time": "부산17:12",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 207",
+    "dep_time": "서울14:45",
+    "arr_time": "부산17:23",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 141",
+    "dep_time": "서울15:00",
+    "arr_time": "부산17:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1217",
+    "dep_time": "서울15:06",
+    "arr_time": "부산20:40",
+    "price": "28,600",
+    "tot_time": "05:34",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 143",
+    "dep_time": "서울15:40",
+    "arr_time": "부산18:16",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1011",
+    "dep_time": "서울15:55",
+    "arr_time": "부산20:26",
+    "price": "42,600",
+    "tot_time": "04:31",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 141",
+    "dep_time": "서울15:00",
+    "arr_time": "부산17:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1217",
+    "dep_time": "서울15:06",
+    "arr_time": "부산20:40",
+    "price": "28,600",
+    "tot_time": "05:34",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 143",
+    "dep_time": "서울15:40",
+    "arr_time": "부산18:16",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1011",
+    "dep_time": "서울15:55",
+    "arr_time": "부산20:26",
+    "price": "42,600",
+    "tot_time": "04:31",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 145",
+    "dep_time": "서울16:00",
+    "arr_time": "부산18:36",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 235",
+    "dep_time": "서울16:11",
+    "arr_time": "부산19:24",
+    "price": "-",
+    "tot_time": "48,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 147",
+    "dep_time": "서울16:30",
+    "arr_time": "부산19:02",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 149",
+    "dep_time": "서울17:00",
+    "arr_time": "부산19:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 255",
+    "dep_time": "서울17:15",
+    "arr_time": "부산20:12",
+    "price": "-",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 151",
+    "dep_time": "서울17:25",
+    "arr_time": "부산20:10",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 145",
+    "dep_time": "서울16:00",
+    "arr_time": "부산18:36",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 235",
+    "dep_time": "서울16:11",
+    "arr_time": "부산19:24",
+    "price": "-",
+    "tot_time": "48,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 147",
+    "dep_time": "서울16:30",
+    "arr_time": "부산19:02",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 149",
+    "dep_time": "서울17:00",
+    "arr_time": "부산19:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 255",
+    "dep_time": "서울17:15",
+    "arr_time": "부산20:12",
+    "price": "-",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 151",
+    "dep_time": "서울17:25",
+    "arr_time": "부산20:10",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1219",
+    "dep_time": "서울17:40",
+    "arr_time": "부산23:08",
+    "price": "28,600",
+    "tot_time": "05:28",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 153",
+    "dep_time": "서울18:00",
+    "arr_time": "부산20:35",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1221",
+    "dep_time": "서울18:11",
+    "arr_time": "부산23:36",
+    "price": "28,600",
+    "tot_time": "05:25",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 155",
+    "dep_time": "서울18:15",
+    "arr_time": "부산20:50",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 149",
+    "dep_time": "서울17:00",
+    "arr_time": "부산19:42",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 255",
+    "dep_time": "서울17:15",
+    "arr_time": "부산20:12",
+    "price": "-",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 151",
+    "dep_time": "서울17:25",
+    "arr_time": "부산20:10",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1219",
+    "dep_time": "서울17:40",
+    "arr_time": "부산23:08",
+    "price": "28,600",
+    "tot_time": "05:28",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 153",
+    "dep_time": "서울18:00",
+    "arr_time": "부산20:35",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1221",
+    "dep_time": "서울18:11",
+    "arr_time": "부산23:36",
+    "price": "28,600",
+    "tot_time": "05:25",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 155",
+    "dep_time": "서울18:15",
+    "arr_time": "부산20:50",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 157",
+    "dep_time": "서울18:30",
+    "arr_time": "부산21:13",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 257",
+    "dep_time": "서울18:40",
+    "arr_time": "부산21:50",
+    "price": "(2량)",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 237",
+    "dep_time": "서울18:55",
+    "arr_time": "부산22:15",
+    "price": "(2량)",
+    "tot_time": "48,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 153",
+    "dep_time": "서울18:00",
+    "arr_time": "부산20:35",
+    "price": "-",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1221",
+    "dep_time": "서울18:11",
+    "arr_time": "부산23:36",
+    "price": "28,600",
+    "tot_time": "05:25",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 155",
+    "dep_time": "서울18:15",
+    "arr_time": "부산20:50",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 157",
+    "dep_time": "서울18:30",
+    "arr_time": "부산21:13",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 257",
+    "dep_time": "서울18:40",
+    "arr_time": "부산21:50",
+    "price": "(2량)",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 237",
+    "dep_time": "서울18:55",
+    "arr_time": "부산22:15",
+    "price": "(2량)",
+    "tot_time": "48,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 159",
+    "dep_time": "서울19:00",
+    "arr_time": "부산21:40",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 211",
+    "dep_time": "서울19:20",
+    "arr_time": "부산21:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1223",
+    "dep_time": "서울19:23",
+    "arr_time": "부산00:45",
+    "price": "28,600",
+    "tot_time": "05:22",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 161",
+    "dep_time": "서울19:35",
+    "arr_time": "부산22:10",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 159",
+    "dep_time": "서울19:00",
+    "arr_time": "부산21:40",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 211",
+    "dep_time": "서울19:20",
+    "arr_time": "부산21:54",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1223",
+    "dep_time": "서울19:23",
+    "arr_time": "부산00:45",
+    "price": "28,600",
+    "tot_time": "05:22",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 161",
+    "dep_time": "서울19:35",
+    "arr_time": "부산22:10",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 243",
+    "dep_time": "서울19:41",
+    "arr_time": "부산22:57",
+    "price": "(2량)",
+    "tot_time": "48,800원10%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 275",
+    "dep_time": "서울19:45",
+    "arr_time": "부산22:44",
+    "price": "(2량)",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 213",
+    "dep_time": "서울19:55",
+    "arr_time": "부산22:29",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 163",
+    "dep_time": "서울20:00",
+    "arr_time": "부산22:37",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 215",
+    "dep_time": "서울20:15",
+    "arr_time": "부산22:42",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1013",
+    "dep_time": "서울20:25",
+    "arr_time": "부산00:59",
+    "price": "42,600",
+    "tot_time": "04:34",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 163",
+    "dep_time": "서울20:00",
+    "arr_time": "부산22:37",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 215",
+    "dep_time": "서울20:15",
+    "arr_time": "부산22:42",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "1013",
+    "dep_time": "서울20:25",
+    "arr_time": "부산00:59",
+    "price": "42,600",
+    "tot_time": "04:34",
+    "membership": "none"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 165",
+    "dep_time": "서울20:30",
+    "arr_time": "부산22:46",
+    "price": "(2량)",
+    "tot_time": "60,200원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 259",
+    "dep_time": "서울20:50",
+    "arr_time": "부산23:49",
+    "price": "(2량)",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 167",
+    "dep_time": "서울21:00",
+    "arr_time": "부산23:37",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 169",
+    "dep_time": "서울21:30",
+    "arr_time": "부산00:15",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 261",
+    "dep_time": "서울21:35",
+    "arr_time": "부산00:40",
+    "price": "(2량)",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 171",
+    "dep_time": "서울22:00",
+    "arr_time": "부산00:37",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 173",
+    "dep_time": "서울22:30",
+    "arr_time": "부산01:03",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 167",
+    "dep_time": "서울21:00",
+    "arr_time": "부산23:37",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 169",
+    "dep_time": "서울21:30",
+    "arr_time": "부산00:15",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 261",
+    "dep_time": "서울21:35",
+    "arr_time": "부산00:40",
+    "price": "(2량)",
+    "tot_time": "53,900원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 171",
+    "dep_time": "서울22:00",
+    "arr_time": "부산00:37",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 173",
+    "dep_time": "서울22:30",
+    "arr_time": "부산01:03",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 217",
+    "dep_time": "서울22:50",
+    "arr_time": "부산01:15",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 171",
+    "dep_time": "서울22:00",
+    "arr_time": "부산00:37",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 173",
+    "dep_time": "서울22:30",
+    "arr_time": "부산01:03",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  },
+  {
+    "type": "직통",
+    "train_num": "KTX 217",
+    "dep_time": "서울22:50",
+    "arr_time": "부산01:15",
+    "price": "(2량)",
+    "tot_time": "59,800원5%",
+    "membership": "적립"
+  }
+]
